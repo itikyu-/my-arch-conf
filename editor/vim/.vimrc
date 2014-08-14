@@ -53,8 +53,6 @@ syntax on
 set cursorline
 " 検索結果文字列のハイライトを有効にする
 set hlsearch
-" コメント文の色を変更
-highlight Comment ctermfg=DarkCyan
 "カラースキーマ
 colorscheme molokai
 
@@ -83,25 +81,10 @@ set autoindent
 "バックスペースで削除できるものを指定(indent:行頭の空白,eol:改行,start:挿入モード開始位置より手前の文字)
 set backspace=indent,eol,start
 
-"ノーマルモードでEnterすると空行挿入
-"noremap <CR> o<ESC>
-
 "上下のカーソル移動を行単位ではなく、表示上の上下にする
 nnoremap j gj
 nnoremap k gk
 
-" 消去、編集
-imap <C-k> <ESC>d$i
-imap <C-y> <ESC>pi
-imap <C-d> <ESC><Right>xi
-
-" 移動(Emacs風味)
-imap <C-a>  <Home>
-imap <C-e>  <End>
-"imap <C-b>  <Left>
-"imap <C-f>  <Right>
-"imap <C-n>  <Down>
-"imap <C-p>  <UP>
 "----------------------------------------------------
 " ファイルの前回閉じた時の場所を記憶
 "----------------------------------------------------
