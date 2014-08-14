@@ -1,0 +1,6 @@
+cd views/
+mv Pnacl.erb pnacl.erb
+cd ../public/
+ls
+cd js/
+mv pnacle.js pnacl.js
