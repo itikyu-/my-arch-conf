@@ -1,3 +1,3 @@
 #!/bin/sh
 
-pacman -S tree sudo
+pacman --needed -S tree sudo vim ufw
