@@ -1,0 +1,32 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/itikyu/projects/codeiq/" . "code_bank/")
+ ("/home/itikyu/projects/" . "codeiq/")
+ ("/home/itikyu/" . "projects/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/itikyu/projects/codeiq/code_bank/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "main.rb"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/itikyu/" (21791 58367 194068 776000) "dotfiles/" "favicon.ico" ".gstreamer-0.10/" ".npmrc" ".recentf" ".zcompdump" ".profile" ".purple/" ".esd_auth" ".npm/" ".groovy/" ".kkcrc" ".gvimrc" ".ssh/" ".gnupg/" "projects/" ".rsense" ".bash_history" ".dbus/" ".pki/" "workspace/" "../" ".texlive/" ".viminfo" "bin/" ".bashrc" ".repopickle_.gitconfig" "dart/" ".local/" ".recently-used" ".urxvt/" "builds/" ".gnome/" ".xinitrc" ".ICEauthority" ".zsh_history" ".bash_logout" ".coffee_history" ".config/" "memo.txt" ".mozilla/" ".node-gyp/" "program/" "Downloads/" ".cache/" ".gnash/" ".emacs.d/" ".mplayer/" ".gitconfig" ".Xauthority" ".dartEditor/" ".lesshst" ".IdeaIC13/" ".uim.d/" "abs/" ".gimp-2.8/" ".mozc/" ".wine/" ".bundler/" ".gem/" "git/" "node_modules/" "favicon.png" ".vimrc" ".m2/" "./" "Desktop/" ".atom/" ".Xdefaults" ".pip/" ".repoconfig/" "tmp/" ".zshrc" ".vim/" ".thumbnails/" ".java/" ".pub-cache/" ".eclipse/" "Anki/" "wc" ".cmus/" ".bash_profile")
+
+ ("/home/itikyu/projects/codeiq/code_bank/" (21791 56054 620619 325000) "../" "english/" "./")
+
+ ("/home/itikyu/projects/codeiq/" (21791 56020 40617 589000) "../" "triangle/" "q1380.rb" "./" "tuubun_yakubun/" "code_bank/")
+
+ ("/home/itikyu/projects/" (21790 25376 244993 740000) "blog/" "../" "Open-Advice-jp/" "my-arch-conf/" "RSpecBook/" "codeiq/" "design/" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: input
+# key: input
+# --
+<label for="$1">$3</label><input type="$2" id="$1"/>

@@ -1,0 +1,20 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("blog"
+ (filename . "~/Programing/Ruby/Blog/")
+ (front-context-string . ".bundle\n  drwxrw")
+ (rear-context-string . "96  4月 25 14:07 ")
+ (position . 251))
+("emacs_dot"
+ (filename . "~/.emacs.d/")
+ (front-context-string . "%backup%~\n  drwx")
+ (rear-context-string . "34  8月  9  2012 ")
+ (position . 82))
+("vc_web"
+ (filename . "~/Programing/VC/my_study/vc_web.git/")
+ (front-context-string . ".git\n  -rw-rw-r-")
+ (rear-context-string . "96  5月 22 15:30 ")
+ (position . 205))
+)
